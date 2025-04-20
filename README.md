@@ -83,7 +83,6 @@ Feedback visual em tempo real e tratamento de exceções
 
 Interface adaptável com identidade visual própria, com destaque especial ao toque pessoal da criadora: o rosa — símbolo de resistência, marca e ternura num mar de códigos cinzas
 
-![image](https://github.com/user-attachments/assets/147287bf-df42-49b1-8eeb-11028e313e40)
 
 
 “Não conheço todos os tutoriais, mas conheço minha lógica. E isso basta.”
